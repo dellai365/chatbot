@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import "primeicons/primeicons.css";
+
+:root
+{
+  --bg-header-chatbot-box-message : #3e4652;
+  --bg-chatbot-icon-container : #3e4652;
+  --chatbot-scrollbar-color :   #3e4652;
+  --color-header-chatbot-box-message : white;
+  --bg-textbox : white;
+  --color-user-message : black;
+  --color-chatbot-message : white;
+  --bg-user-icon-container : white;
+}
